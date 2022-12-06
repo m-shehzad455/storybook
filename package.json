@@ -1,0 +1,8 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/m-shehzad455/storybook.git",
+  "author": "m-shehzad455 <shehzuali5@gmail.com>",
+  "license": "MIT"
+}
